@@ -8,5 +8,4 @@ if strOfFile == "FILE":
     strOfFile = open(fileLoc)
 
 totalWords = len(strOfFile.read().split())
-
-print("There are", totalWords, "Total words press enter to continue.")
+print("There are", totalWords, "Total words.")
