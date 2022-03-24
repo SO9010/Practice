@@ -1,0 +1,1 @@
+strOrFile = input("Please put in the text that you want to put in") 
