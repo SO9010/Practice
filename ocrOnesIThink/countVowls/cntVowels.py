@@ -8,7 +8,7 @@ for index in text:
     elif index == "e":
         vowls["e"] += 1
     elif index == "i":
-        vowls["i"] += 1
+        vowls["i"] += 1 
     elif index == "o":
         vowls["i"] += 1
     elif index == "u":
