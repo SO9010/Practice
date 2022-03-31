@@ -8,6 +8,7 @@ def main():
         #print(checkAgainst(i, 7, "Example"), end="")
         print(checkAgainst(i, 3, "fizz"), end="")
         print(checkAgainst(i, 5, "Buzz"))
+        #print(checkAgainst(i, 7, "Example"), end="")
 
 def checkAgainst(currentNumber, number, name):
     if currentNumber % number == 0: #if 0 it means there is a full division
