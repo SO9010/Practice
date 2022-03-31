@@ -4,8 +4,8 @@ def main():
         i += 1 
         print(i,"", end="")
         #If you want to add another one use the same format, add it under here just uncomment it and you will see how it works
-        #print(checkAgainst(i, 7, "Example"), end="")
         
+        #print(checkAgainst(i, 7, "Example"), end="")
         print(checkAgainst(i, 3, "fizz"), end="")
         print(checkAgainst(i, 5, "Buzz"))
 
