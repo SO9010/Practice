@@ -6,20 +6,9 @@ numbers = []
 
 
 while True:
-    number = input("Please enter a number... If you have finished type F: ")
+    number = input("Please enter a number... ")
     number.strip().lower()
-    if number == "f" or number == "":
-        break 
-    numbers.append(int(number))
-    total += int(number)
-    totalNo += 1
-    if total > 0: 
-        average = total / totalNo
-
-while True:
-    number = input("Please enter a number... If you have finished type F: ")
-    number.strip().lower()
-    if number == "f" or number == "":
+    if number == "":
         break 
     numbers.append(int(number))
     total += int(number)
