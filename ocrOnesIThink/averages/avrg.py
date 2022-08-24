@@ -1,9 +1,9 @@
 #!/usr/bin/env python
+import string
 
 total = 0
 totalNo = 0
 numbers = []
-
 
 while True:
     number = input("Please enter a number... ")
