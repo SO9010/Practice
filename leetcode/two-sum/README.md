@@ -7,7 +7,7 @@ You can return the answer in any order.
 
 <h3>Solution walkthrough:</h3>
    
-    I knew for this, I knew i would need to have nested search algorithms. I chose the linear search algorith. Even though this may not be the most efficient for big arrays it does the job well enough for smaller ones. Furthermore, it will save memory and time as we dont have to reorder it.
+I knew for this, I knew i would need to have nested search algorithms. I chose the linear search algorith. Even though this may not be the most efficient for big arrays it does the job well enough for smaller ones. Furthermore, it will save memory and time as we dont have to reorder it.
     
 <h3>Example 1:</h3>
 
